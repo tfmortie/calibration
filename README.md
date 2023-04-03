@@ -1,6 +1,6 @@
 # Calibration of probabilistic classifier sets 
 
-Accompanying code for _On the Calibration of Probabilistic Classifier Sets_, accepted for AISTATS 2023. Code for the experiments can be found in the folder [`calibariton/src/test`](./calibration/src/test).
+Accompanying code for _On the Calibration of Probabilistic Classifier Sets_, accepted for AISTATS 2023. Code for the experiments can be found in the folder [`calibration/src/test`](./calibration/src/test).
 
 **Under construction**
 
